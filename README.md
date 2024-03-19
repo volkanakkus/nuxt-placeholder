@@ -1,2 +1,2 @@
 # nuxt-placeholder
-A placeholder for Nuxt 3
+This module will be developed in a short time period.
